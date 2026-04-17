@@ -1,0 +1,87 @@
+# ===========================
+# Unity
+# ===========================
+
+# Dossiers générés par Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Fichiers de mémoire (MemoryCaptures)
+[Mm]emoryCaptures/
+
+# Asset meta data doit être ignoré si on ignore les assets eux-mêmes
+# !/[Aa]ssets/**/*.meta
+
+# Fichiers d'index Unity
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Résultats des tests Unity
+[Tt]est[Rr]esults/
+
+# ===========================
+# IDE / Éditeurs
+# ===========================
+
+# Visual Studio / VS Code
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.csproj.user
+
+# JetBrains (Rider)
+.idea/
+*.sln.iml
+
+# VS Code (optionnel — garder si tu veux partager la config)
+# .vscode/
+
+# ===========================
+# Système d'exploitation
+# ===========================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+
+# ===========================
+# Builds & Exports
+# ===========================
+
+# Exécutables
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Crashlytics
+crashlytics-build.properties
+
+# ===========================
+# Packages / NuGet
+# ===========================
+nuget.config
+packages/
+*.nupkg
