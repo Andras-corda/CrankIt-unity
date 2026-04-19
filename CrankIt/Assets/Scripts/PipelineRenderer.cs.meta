@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b41bde3d8a4afdf42b941ce110df1a98
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spriteEmpty: {fileID: -1685717224, guid: fb3b75e94cf2ead42a3f45d1bf5d5229, type: 3}
+  - spriteOil: {fileID: 2042802958, guid: fb3b75e94cf2ead42a3f45d1bf5d5229, type: 3}
+  - spriteFuel: {fileID: 352843907, guid: fb3b75e94cf2ead42a3f45d1bf5d5229, type: 3}
+  - spriteBroken: {fileID: -639729074, guid: fb3b75e94cf2ead42a3f45d1bf5d5229, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
